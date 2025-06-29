@@ -33,6 +33,7 @@ const projects = [
       label: "View on GitHub",
       url: "https://github.com/YOUR_USERNAME/pratibha-lms",
     },
+    {label:"Letter of Appreciation",url:"https://drive.google.com/file/d/1vaRrH0BwnfD5WGhYwPOx1co_tJtDSssy/view?usp=sharing"}
   ], // Or deploy URL if public
 }
 
@@ -68,14 +69,14 @@ const Projects = () => {
               ))}
             </div>
             {project.links && (
-  <div className="flex flex-wrap gap-3 mt-4">
+  <div className="flex flex-wrap gap-3 mt-4 ">
     {project.links.map((link, i) => (
       <a
         key={i}
         href={link.url}
         target="_blank"
         rel="noopener noreferrer"
-        className="inline-block px-4 py-2 bg-blue-600 text-white rounded-full text-sm font-medium hover:bg-blue-700 transition"
+         className="inline-block px-4 py-2 border border-blue-700 text-blue-700 rounded-full text-sm font-medium hover:bg-blue-700 hover:text-white transition"
       >
         {link.label}
       </a>

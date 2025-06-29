@@ -6,6 +6,8 @@ import Projects from "./pages/Projects"
 import Contact from "./pages/Contact";
 import Skills from "./pages/Skills"
 import Experiences from "./pages/Experiences";
+import Awards from "./pages/Awards";
+import Highlights from "./pages/Highlights";
 
 function App() {
   return (
@@ -17,8 +19,12 @@ function App() {
         <About />
         <Experiences/>
         <Projects/>
+        <Highlights/>
+        <Awards/>
         <Skills/>
+        
         <Contact/>
+
 
       </main>
        {/* ✅ Add Footer Below */}

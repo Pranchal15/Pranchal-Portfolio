@@ -11,7 +11,7 @@ const Navbar = () => {
         {/* Navigation Links */}
         <ul className="flex space-x-6 text-gray-700 font-medium">
           <li><a href="#home" className="hover:text-blue-600">Home</a></li>
-                    <li><a href="#about" className="hover:text-blue-600">About</a></li>
+                    <li><a href="#experience" className="hover:text-blue-600">Experience</a></li>
           <li><a href="#projects" className="hover:text-blue-600">Projects</a></li>
 
           <li><a href="#skills" className="hover:text-blue-600">Skills</a></li>
