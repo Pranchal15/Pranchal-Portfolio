@@ -59,7 +59,7 @@ const Home = () => {
       <div className="flex flex-col md:flex-row gap-4">
 
        <a
-  href="/resume.pdf"
+  href="/Pranchal_Agarwal_Resume.pdf"
   download
   className="inline-flex items-center gap-2 px-6 py-3 bg-blue-100 text-blue-800 font-semibold rounded-full text-lg shadow hover:bg-blue-200 transition ring-2 ring-blue-300"
 >
