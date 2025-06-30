@@ -37,7 +37,7 @@ const experiences = [
     duration: "May 2022 – June 2023",
     description: [
       "Built an end-to-end voice assistant, using OpenAI API for dynamic, context-aware conversational intelligence.",
-      "Designed and developed an internal FAQ answering tool from meeting transcriptions, sales playbooks, product demos, and emails using NER, automatic tagging, and a QA chatbot.",
+      "Designed an internal FAQ answering tool from meeting transcriptions, sales playbooks, and emails using NER, automatic tagging, and a QA chatbot.",
     ],
   },
 ];
