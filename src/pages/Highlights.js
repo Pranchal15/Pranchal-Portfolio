@@ -3,7 +3,7 @@ import React from "react";
 const highlights = [
   {
     title: "Presenting my Adobe project at UMass",
-    img: "/images/adobePres.jpg",
+    img: "/images/adobePres.JPG",
   },
   {
     title: "Leading a Workshop at c.S(); (2021)",
@@ -11,11 +11,11 @@ const highlights = [
   },
   {
     title: "At SS&C Intralinks Office",
-    img: "/images/ssnc.jpg",
+    img: "/images/ssnc.JPG",
   },
   {
     title: "Let's just say I lived",
-    img: "/images/skiing.jpg",
+    img: "/images/skiing.JPG",
   },
 ];
 
